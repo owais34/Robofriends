@@ -1,23 +1,40 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Welcome to Robofriends!
 
-In the project directory, you can run:
+Robofriends is a super simple robot search engine made using **ReactJS** and **Tachyons** styling .
+Here what the app looks like .
+![Robofriends app](https://github.com/owais34/Robofriends/blob/master/public/pic1.png)
+Dynamic robot profile searching.
+![Searching](https://github.com/owais34/Robofriends/blob/master/public/pic2.png)
+Checkout the finished app at [Robofriends .](https://owais34.github.io/Robofriends)
 
-### `npm start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# How to run app locally
+Clone the repository by installing git and running the following command in the terminal
+>git clone https://github.com/owais34/Robofriends.git
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Navigate to the cloned repo by typing 
+>cd Robofriends
 
-### `npm test`
+**Delete package-lock.json then**
+Run the following command to install any missing dependencies
+>**npm install** 
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+if you use npm or
+>**yarn install**
 
-### `npm run build`
+if you use yarn as the package manager.
+After all dependencies are installed
+Run
+>npm start
+
+or
+>yarn start
+
+to run app locally on localhost
+
+
 
 Builds the app for production to the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
