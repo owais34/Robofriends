@@ -5,9 +5,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Robofriends is a super simple robot search engine made using **ReactJS** and **Tachyons** styling .
 Here what the app looks like .
 ![Robofriends app](https://github.com/owais34/Robofriends/blob/master/public/pic1.png)
-Dynamic robot profile searching.
+
+>Dynamic robot profile searching.
+
 ![Searching](https://github.com/owais34/Robofriends/blob/master/public/pic2.png)
-Checkout the finished app at [Robofriends .](https://owais34.github.io/Robofriends)
+
+
+>Checkout the finished app at [Robofriends .](https://owais34.github.io/Robofriends)
 
 
 # How to run app locally
